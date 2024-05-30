@@ -1,0 +1,3 @@
+[submodule "godot-gdrl"]
+	path = godot-gdrl
+	url = https://github.com/mxilinas/godot-gdrl
