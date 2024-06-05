@@ -13,6 +13,7 @@ from imitation.algorithms.adversarial.gail import GAIL
 from imitation.rewards.reward_nets import BasicRewardNet
 from imitation.util import logger as imit_logger
 from stable_baselines3 import PPO
+from stable_baselines3 import TRPO
 from stable_baselines3.common.evaluation import evaluate_policy
 from stable_baselines3.common.vec_env.vec_monitor import VecMonitor
 
